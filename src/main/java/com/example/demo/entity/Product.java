@@ -5,5 +5,6 @@ public class Product {
     private int price;
     private String description;
     private int precio;
+    private String image;
 
 }

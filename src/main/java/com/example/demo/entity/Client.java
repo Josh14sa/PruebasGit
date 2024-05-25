@@ -6,4 +6,5 @@ public class Client {
     private int age;
     private String address;
     private int edad;
+    private int dni;
 }
